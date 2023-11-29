@@ -1,1 +1,1 @@
-# redi_week7_class
+# week 7 class exercise
